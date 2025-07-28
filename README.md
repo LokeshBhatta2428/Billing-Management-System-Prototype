@@ -1,4 +1,4 @@
- Project Introduction: Billing Management System (Prototype)
+ Project Introduction: Invoice System (Prototype)
  
 In today’s fast-paced digital world, efficient and organized billing is vital for any business—big or small. This Billing Management System prototype, titled "Loki’s Store", 
 is a console-based C++ application that aims to streamline the sales and invoicing process through an interactive and user-friendly interface.
